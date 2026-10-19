@@ -1,0 +1,1 @@
+langage Gherkin (avec des mots-clés comme Fonctionnalité, Scénario, Étant donné, Quand, Alors)
