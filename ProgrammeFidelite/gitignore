@@ -1,1 +1,3 @@
-
+*.log
+secrets.txt
+node_modules/
